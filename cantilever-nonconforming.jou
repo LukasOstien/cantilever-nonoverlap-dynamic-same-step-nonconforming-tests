@@ -1,9 +1,9 @@
 ${height = 0.0254}
 ${width = 0.0127}
 ${h_clamped = 0.008467}
-${h_free = 0.0042335}
-${domain_length_clamped = 0.127}
-${domain_length_free = 0.127}
+${h_free = 0.008467}
+${domain_length_clamped = 0.1524}
+${domain_length_free = 0.1524}
 ${length = 0.254}
 
 create brick x {domain_length_clamped} y {height} z {width}
