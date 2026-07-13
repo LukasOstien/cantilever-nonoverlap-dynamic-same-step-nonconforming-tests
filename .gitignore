@@ -1,0 +1,7 @@
+*.csv
+*.log
+# Exodus files
+*.e
+*.exo
+*.e-s*
+*.e.*
